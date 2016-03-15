@@ -1,5 +1,7 @@
 #PyTerm
 
+[![Join the chat at https://gitter.im/jeffersonmourak/pyTerm](https://badges.gitter.im/jeffersonmourak/pyTerm.svg)](https://gitter.im/jeffersonmourak/pyTerm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## What's PyTerm ##
 
 PyTerm is a Python-based terminal client for Linux that highlights the available commands of your computer.
